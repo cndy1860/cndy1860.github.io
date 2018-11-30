@@ -103,7 +103,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: cndy1860
-    repo: blog-comments
+    repo: cndy1860.github.io
     clientID: 4823ce484394b943454d
     clientSecret: b1620ca8dc650bbc35dbc4308aeca1b4dffe2ed5
 # 在使用其它评论组件时可点击显示 Disqus
